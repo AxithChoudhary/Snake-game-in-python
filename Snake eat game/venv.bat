@@ -1,0 +1,1 @@
+D:\Projects\env\venv\Scripts\Activate
